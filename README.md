@@ -23,7 +23,7 @@ O projeto foi pensado para unir **organização de dados** e **clareza visual (U
 | **Demonstração 02** | ![Demonstração 02](<DEMONSTRAÇÃO 02.png>) |
 | **Demonstração 03** | ![Demonstração 03](<DEMONSTRAÇÃO 03.png>) |
 | **Demonstração 04** | ![Demonstração 04](<DEMONSTRAÇÃO 04.png>) |
-| **Demonstração 05** | ![Demonstração 05](<DEMONSTRAÇÃO 05.png>) |
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **Python**
