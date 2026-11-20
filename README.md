@@ -15,7 +15,15 @@ O projeto foi pensado para unir **organização de dados** e **clareza visual (U
 - **Cadastro e registro de histórico:** possibilidade de cadastrar novos produtos ou adicionar novos preços a produtos já existentes sem duplicar o item principal.
 - **Gerenciamento e exclusão:** remoção de produtos indesejados ou duplicados diretamente na interface, mantendo a base limpa.
 - **Análise gráfica interativa:** gráfico de evolução de preços ao longo do tempo com linha de referência do preço alvo.
+## 🖼️ Demonstração Visual
 
+| Tela / Fluxo | Pré-visualização |
+| :--- | :--- |
+| **Demonstração 01** | ![Demonstração 01](<DEMONSTRAÇÃO 01.png>) |
+| **Demonstração 02** | ![Demonstração 02](<DEMONSTRAÇÃO 02.png>) |
+| **Demonstração 03** | ![Demonstração 03](<DEMONSTRAÇÃO 03.png>) |
+| **Demonstração 04** | ![Demonstração 04](<DEMONSTRAÇÃO 04.png>) |
+| **Demonstração 05** | ![Demonstração 05](<DEMONSTRAÇÃO 05.png>) |
 ## 🛠️ Tecnologias Utilizadas
 
 - **Python**
